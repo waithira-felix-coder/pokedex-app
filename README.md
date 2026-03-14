@@ -19,6 +19,23 @@ This project focuses on **API integration, navigation patterns, and dynamic UI r
 
 ---
 
+### Home Screen
+
+The app fetches a list of Pokémon from PokéAPI.
+
+![Home Screen](assets/screenshots/homepage.png)
+
+### Details Screen
+
+Displays Pokémon details including types, height, weight, and sprites.
+
+![Details Screen](assets/screenshots/Detailpage.png)
+
+##Additional Views
+![Additional Views](assets/screenshots/onmobileHomepage.jpeg)
+
+![Additional Views](assets/screenshots/PokedexHome.png)
+
 # 🧠 Technical Concepts Demonstrated
 
 This project demonstrates several concepts commonly used in modern mobile development.
@@ -178,12 +195,6 @@ This project highlights the following industry-relevant skills:
 - Navigation architecture
 - Component-based design
 - Performance optimization with parallel requests
-
-"/sreenshots/PokedexHome.png"
-
-"/sreenshots/Detailpage.png"
-
-"/sreenshots/onmobileDetailpage.jpeg"
 
 ---
 

@@ -195,7 +195,17 @@ This project highlights the following industry-relevant skills:
 - Navigation architecture
 - Component-based design
 - Performance optimization with parallel requests
+## Screenshots
+![Pokedex App Main View]
+(sreenshots/PokedexHome.png)
 
+<<<<<<< HEAD
+=======
+(sreenshots/Detailpage.png)
+![Pokedex App Additional Views]
+(sreenshots/onmobileDetailpage.jpeg)
+
+>>>>>>> df33f9bf3a579e303ffb0fd763ef09d2394a5f1e
 ---
 
 # 📜 License
